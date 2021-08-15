@@ -1,4 +1,4 @@
-# second_app
+# Wallet_app
 
 A new Flutter project.
 
