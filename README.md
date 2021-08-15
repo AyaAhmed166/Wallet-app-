@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+# About Project
+has 2  folders and one main file , two folders widget and  models folder for styling the app we have chart to show us  Price paid for things  , transaction list to put inside all items were purchased in one week
